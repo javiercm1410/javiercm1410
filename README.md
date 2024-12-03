@@ -26,8 +26,7 @@ Here are some of the certifications I’ve earned to sharpen my skills:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)  
 
 ## 🌟 GitHub Score  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javiercm1410&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiercm1410&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javiercm1410&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiercm1410&layout=compact&theme=radical)  
 
 ## 🌐 Check Out My Website  
 Visit my website [**here**](https://javiercarrillo.dev).  
