@@ -9,9 +9,7 @@ I'm a DevOps Engineer with over two years of experience and a degree in Telemati
 ## 🏅 Certifications  
 Here are some of the certifications I’ve earned to sharpen my skills:  
 - **AWS Certified Solutions Architect - Associate**  
-  ![AWS Badge](https://img.shields.io/badge/AWS-Certified-brightgreen)  
-- **Google Cloud Professional Architect**  
-  ![GCP Badge](https://img.shields.io/badge/Google-Cloud_Architect-blue)  
+  ![AWS Badge](https://img.shields.io/badge/AWS-Certified-brightgreen)   
 - **HashiCorp Certified: Terraform Associate**  
   ![Terraform Badge](https://img.shields.io/badge/Terraform-Certified-purple)  
 
@@ -28,7 +26,6 @@ Here are some of the certifications I’ve earned to sharpen my skills:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)  
 
 ## 🌟 GitHub Score  
-Check out my stats to see what I’ve been up to:  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javiercm1410&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiercm1410&layout=compact&theme=radical)  
 
